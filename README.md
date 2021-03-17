@@ -17,7 +17,7 @@ This application was built on npm **6.14.11** and node **v14.16.0**.
 1. Download or clone the repository
 
 ```
-git clone https://github.com/dartora/
+git clone https://github.com/dartora/bridge_teste
 ```
 
 2. Install the dependencies in directory **api** and **client**
